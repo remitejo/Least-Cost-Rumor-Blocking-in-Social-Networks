@@ -1,6 +1,4 @@
-# Advanced Topics in Distributed System (CE7490)
-
-### Implementing algorithms discussed in Least Cost Rumor Blocking in Social Networks
+# Implementing algorithms discussed in Least Cost Rumor Blocking in Social Networks
 #### By Lidan Fan*, Zaixin Lu*, Weili Wu*, Bhavani Thuraisingham*, Huan Ma†, and Yuanjun Bi
 
 Done by: Amarildo Alberto Come, Elise Auvray, and Remi Boukheloua
