@@ -1,7 +1,7 @@
 # Implementing algorithms discussed in Least Cost Rumor Blocking in Social Networks
 #### By Lidan Fan*, Zaixin Lu*, Weili Wu*, Bhavani Thuraisingham*, Huan Ma†, and Yuanjun Bi
 
-Done by: Amarildo Alberto Come, Elise Auvray, and Remi Boukheloua
+Project for CE7490: ADVANCED TOPICS IN DISTRIBUTED SYSTEMS (NTU)
 
 
 ```python
